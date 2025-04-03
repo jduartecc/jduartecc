@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a/e) ao meu Dev Verse 😁
 
  <div>
    <a href="https://github.com/jduartecc">
